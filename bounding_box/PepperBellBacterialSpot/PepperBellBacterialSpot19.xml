@@ -1,0 +1,50 @@
+<annotation>
+	<folder>Pepper_bell___Bacterial_spot</folder>
+	<filename>0d8421cd-eebc-4018-b591-12352dd970a7___JR_B.Spot 3234.JPG</filename>
+	<path>C:\Users\sanja\Desktop\Courses\Deep Learning\Proj\leafDataForBoudingBox\Pepper_bell___Bacterial_spot\0d8421cd-eebc-4018-b591-12352dd970a7___JR_B.Spot 3234.JPG</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>256</width>
+		<height>256</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>PepperBellBacterialSpot</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>4</xmin>
+			<ymin>148</ymin>
+			<xmax>21</xmax>
+			<ymax>170</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>PepperBellBacterialSpot</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>114</xmin>
+			<ymin>30</ymin>
+			<xmax>149</xmax>
+			<ymax>49</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>PepperBellBacterialSpot</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>129</xmin>
+			<ymin>166</ymin>
+			<xmax>146</xmax>
+			<ymax>170</ymax>
+		</bndbox>
+	</object>
+</annotation>

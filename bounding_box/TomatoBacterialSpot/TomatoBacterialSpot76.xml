@@ -1,0 +1,50 @@
+<annotation>
+	<folder>Tomato___Bacterial_spot</folder>
+	<filename>1c4f6449-0200-439f-9600-5c2bb3400619___GCREC_Bact.Sp 3502.JPG</filename>
+	<path>C:\Users\chhab\Desktop\Deep Learning\Project datasets]\leafDataForBoudingBoxFinal\Tomato___Bacterial_spot\1c4f6449-0200-439f-9600-5c2bb3400619___GCREC_Bact.Sp 3502.JPG</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>256</width>
+		<height>256</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>TomatoBacterialSpot</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>204</xmin>
+			<ymin>126</ymin>
+			<xmax>222</xmax>
+			<ymax>136</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>TomatoBacterialSpot</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>192</xmin>
+			<ymin>168</ymin>
+			<xmax>216</xmax>
+			<ymax>180</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>TomatoBacterialSpot</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>175</xmin>
+			<ymin>38</ymin>
+			<xmax>186</xmax>
+			<ymax>52</ymax>
+		</bndbox>
+	</object>
+</annotation>

@@ -1,0 +1,26 @@
+<annotation>
+	<folder>Pepper_bell___Bacterial_spot</folder>
+	<filename>0a0dbf1f-1131-496f-b337-169ec6693e6f___NREC_B.Spot 9241.JPG</filename>
+	<path>C:\Users\sanja\Desktop\Courses\Deep Learning\Proj\leafDataForBoudingBox\Pepper_bell___Bacterial_spot\0a0dbf1f-1131-496f-b337-169ec6693e6f___NREC_B.Spot 9241.JPG</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>256</width>
+		<height>256</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>PepperBellBacterialSpot</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>32</xmin>
+			<ymin>110</ymin>
+			<xmax>43</xmax>
+			<ymax>123</ymax>
+		</bndbox>
+	</object>
+</annotation>

@@ -1,0 +1,50 @@
+<annotation>
+	<folder>Grape___Esca_Black_Measles</folder>
+	<filename>9994c140-6ebe-4c48-a4b5-0ea65eed42d4___FAM_B.Msls 1825.JPG</filename>
+	<path>C:\Users\sanja\Desktop\Courses\Deep Learning\Proj\leafDataForBoudingBox\Grape___Esca_Black_Measles\9994c140-6ebe-4c48-a4b5-0ea65eed42d4___FAM_B.Msls 1825.JPG</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>256</width>
+		<height>256</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>GrapeEscaBlackMeasles</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>127</xmin>
+			<ymin>48</ymin>
+			<xmax>178</xmax>
+			<ymax>106</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>GrapeEscaBlackMeasles</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>86</xmin>
+			<ymin>59</ymin>
+			<xmax>101</xmax>
+			<ymax>77</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>GrapeEscaBlackMeasles</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>181</xmin>
+			<ymin>92</ymin>
+			<xmax>208</xmax>
+			<ymax>114</ymax>
+		</bndbox>
+	</object>
+</annotation>

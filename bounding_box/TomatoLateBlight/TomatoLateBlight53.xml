@@ -1,0 +1,26 @@
+<annotation>
+	<folder>Tomato___Late_blight</folder>
+	<filename>1a9a2cbf-75f3-4dd9-93ef-3d3c58e97d06___GHLB2 Leaf 8666.JPG</filename>
+	<path>C:\Users\chhab\Desktop\Deep Learning\Project datasets]\leafDataForBoudingBoxFinal\Tomato___Late_blight\1a9a2cbf-75f3-4dd9-93ef-3d3c58e97d06___GHLB2 Leaf 8666.JPG</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>256</width>
+		<height>256</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>TomatoLateBlight</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>95</xmin>
+			<ymin>151</ymin>
+			<xmax>116</xmax>
+			<ymax>177</ymax>
+		</bndbox>
+	</object>
+</annotation>

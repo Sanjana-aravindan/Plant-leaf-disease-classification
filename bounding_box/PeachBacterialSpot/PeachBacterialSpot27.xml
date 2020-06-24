@@ -1,0 +1,50 @@
+<annotation>
+	<folder>Peach___Bacterial_spot</folder>
+	<filename>0bed4870-01d3-42a8-b0bf-817e5eff01f7___Rut._Bact.S 0780.JPG</filename>
+	<path>C:\Users\sanja\Desktop\Courses\Deep Learning\Proj\leafDataForBoudingBox\Peach___Bacterial_spot\0bed4870-01d3-42a8-b0bf-817e5eff01f7___Rut._Bact.S 0780.JPG</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>256</width>
+		<height>256</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>PeachBacterialSpot</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>146</xmin>
+			<ymin>71</ymin>
+			<xmax>182</xmax>
+			<ymax>87</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>PeachBacterialSpot</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>95</xmin>
+			<ymin>4</ymin>
+			<xmax>158</xmax>
+			<ymax>55</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>PeachBacterialSpot</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>160</xmin>
+			<ymin>158</ymin>
+			<xmax>178</xmax>
+			<ymax>169</ymax>
+		</bndbox>
+	</object>
+</annotation>

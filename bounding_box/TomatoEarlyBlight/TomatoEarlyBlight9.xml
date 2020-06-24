@@ -1,0 +1,50 @@
+<annotation>
+	<folder>Tomato___Early_blight</folder>
+	<filename>0bd357fe-1e54-4c65-979c-e894e0b8a3aa___RS_Erly.B 8328.JPG</filename>
+	<path>C:\Users\chhab\Desktop\Deep Learning\Project datasets]\leafDataForBoudingBoxFinal\Tomato___Early_blight\0bd357fe-1e54-4c65-979c-e894e0b8a3aa___RS_Erly.B 8328.JPG</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>256</width>
+		<height>256</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>TomatoEarlyBlight</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>27</xmin>
+			<ymin>60</ymin>
+			<xmax>72</xmax>
+			<ymax>119</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>TomatoEarlyBlight</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>53</xmin>
+			<ymin>126</ymin>
+			<xmax>123</xmax>
+			<ymax>158</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>TomatoEarlyBlight</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>45</xmin>
+			<ymin>13</ymin>
+			<xmax>65</xmax>
+			<ymax>55</ymax>
+		</bndbox>
+	</object>
+</annotation>

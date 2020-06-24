@@ -1,0 +1,50 @@
+<annotation>
+	<folder>Apple___Apple_scab</folder>
+	<filename>1d81b4c1-072d-4cf7-b1ca-ce43f59822d8___FREC_Scab 3406.JPG</filename>
+	<path>C:\Users\Harshini Vasu\Desktop\DP\dp project\leafDataForBoudingBox\Apple___Apple_scab\1d81b4c1-072d-4cf7-b1ca-ce43f59822d8___FREC_Scab 3406.JPG</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>256</width>
+		<height>256</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>AppleScab</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>169</xmin>
+			<ymin>80</ymin>
+			<xmax>192</xmax>
+			<ymax>92</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>AppleScab</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>96</xmin>
+			<ymin>187</ymin>
+			<xmax>108</xmax>
+			<ymax>197</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>AppleScab</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>54</xmin>
+			<ymin>135</ymin>
+			<xmax>65</xmax>
+			<ymax>144</ymax>
+		</bndbox>
+	</object>
+</annotation>
