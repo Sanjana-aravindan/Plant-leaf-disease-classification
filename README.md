@@ -1,3 +1,5 @@
+Classification and detection of plant leaf disease
+
 The following are the directories for the project:
 
 1.) bounding_box - It contains the manual annotation XML files of 9 plant disease classes (manually annotated).
